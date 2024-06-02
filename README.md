@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate & to contribute
 - 🤔 I’m looking for help with using Python in Data Science
 - 💬 Ask me about EDI
-- 📫 How to reach me: [Linktree](https://linktr.ee/0xhanya)
