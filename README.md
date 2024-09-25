@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I work with several EDI protocols -> reportings -> databases
-- 🌱 I’m learning Python 
+- 🔭 I work as EDI application manager
+- 🌱 I’m learning Python, SQL & Git
 - 👯 I’m looking to collaborate & to contribute
 - 🤔 I’m looking for help with using Python in Data Science
 - 💬 Ask me about EDI
