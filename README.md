@@ -8,7 +8,7 @@ I'm a curious and detail-oriented **EDI Application Developer** from Germany, wi
 
 - 🔄 Working as an **EDI Application Developer** specializing in **EDIFACT mappings**
 - 🧩 Passionate about **Linux**, **Raspberry Pi projects**, **Application Development** and **mechanical keyboards**
-- 🔧 I enjoy scripting in **Python**, **Bash**, and **SQL**
+- 🔧 I enjoy scripting in **Python**, **Swift**, and **SQL**
 - 🧠 Constantly learning: currently deepening my skills in **Git**, **Swift**, and **Typescript**
 
 ---
