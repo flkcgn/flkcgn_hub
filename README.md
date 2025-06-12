@@ -15,7 +15,7 @@ I'm a curious and detail-oriented **EDI Application Developer** from Germany, wi
 
 ## 🔨 Tech Stack & Tools
 
-- 💻 Languages: `Python`, `SQL`, `Bash`, `JSON`
+- 💻 Languages: `Python`, `SQL`, `JSON`
 - 📦 Formats: `EDIFACT`, `XML`, `Markdown`
 - 🛠️ Tools: `Git`, `VS Code`, `Vial`
 - ☁️ Interests: `Cloud automation`, `Data transfer APIs`, `Second Brain apps`
