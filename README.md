@@ -15,8 +15,8 @@ I'm a curious and detail-oriented **EDI Application Developer** from Germany, wi
 
 ## 🔨 Tech Stack & Tools
 
-- 💻 Languages: `Python`, `SQL`, `JSON`
-- 📦 Formats: `EDIFACT`, `XML`, `Markdown`
+- 💻 Languages: `Python`, `SQL`, `JavaScript`
+- 📦 Formats: `EDIFACT`, `XML`, `Markdown`, `JSON`
 - 🛠️ Tools: `Git`, `VS Code`, `Vial`
 - ☁️ Interests: `Cloud automation`, `Data transfer APIs`, `Second Brain apps`
 
@@ -36,7 +36,7 @@ I'm a curious and detail-oriented **EDI Application Developer** from Germany, wi
 
 - 💼 I'm open to collaboration on open source projects
 - 📍 Based in Cologne, Germany
-- ✉️ Reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/falk-baumhauer-109792231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- ✉️ Reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/falk-baumhauer-109792231)
 
 ---
 
